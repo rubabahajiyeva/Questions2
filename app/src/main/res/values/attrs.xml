@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CustomEditText">
+        <attr name="customTextAppearance" format="reference" />
+        <attr name="drawableStartCompat" format="reference" />
+        <attr name="drawableEndCompat" format="reference" />
+        <attr name="drawableTopCompat" format="reference" />
+        <attr name="drawableBottomCompat" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="CustomEditTextForSearch">
+        <attr name="customTextAppearanceForSearch" format="reference" />
+        <attr name="drawableStartCompatForSearch" format="reference" />
+        <attr name="drawableEndCompatForSearch" format="reference" />
+        <attr name="drawableTopCompatForSearch" format="reference" />
+        <attr name="drawableBottomCompatForSearch" format="reference" />
+    </declare-styleable>
+
+
+</resources>

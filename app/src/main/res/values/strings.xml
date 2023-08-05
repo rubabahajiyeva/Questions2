@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Wellness</string>
+    <string name="password">Password</string>
+    <string name="place_the_password_here">Place the password here</string>
+    <string name="enter_your_e_mail_here">Enter your e-mail here</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="already_login"><font color="#0F2851">Already have an account? </font> <font color="#585CE5">Login </font> </string>
+</resources>
